@@ -11,6 +11,8 @@ URL is comprised of a few things: protocol, subdomain/domain/hostname, port numb
 The system connecting the hostname to the server/IP.
 
 ### What is a query string?
+Something we can pass in our HTTP request, and a way to pass arguments to a server. They are key/value pairs.
+
 ### What are two HTTP verbs and how are they different?
 ### What is an HTTP request?
 ### What is an HTTP response?
