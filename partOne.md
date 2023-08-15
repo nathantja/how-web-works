@@ -36,3 +36,4 @@ HTTP headers include metadata such as content type, date/time, cookies, caching 
 
 
 ### What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
+A request gets made with the http protocol from the browser. The browser uses DNS to send the request via the hostname to the intended server. The Server sends a response based on the requested resource.
