@@ -14,6 +14,11 @@ The system connecting the hostname to the server/IP.
 Something we can pass in our HTTP request, and a way to pass arguments to a server. They are key/value pairs.
 
 ### What are two HTTP verbs and how are they different?
+GET - makes requests which don't change any data on the server.
+
+POST - Requests which make a change on the server.
+
+GET is infinitely repeatable (as it yields the same result every time). Each individual POST request makes a change.
 ### What is an HTTP request?
 ### What is an HTTP response?
 ### What is an HTTP header? Give a couple examples of request and response headers you have seen.
