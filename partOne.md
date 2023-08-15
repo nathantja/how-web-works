@@ -4,6 +4,9 @@
 ### What is HTTP?
 HTTP or the "hypertext transfer protocol" is a protocol, or set of guidelines, for sending requests (including data) over the web. All requests made with HTTP are sent as text.
 ### What is a URL?
+Universal Resource Locator.
+URL is comprised of a few things: protocol, subdomain/domain/hostname, port number, resource /, and query for additional data passed.
+
 ### What is DNS?
 ### What is a query string?
 ### What are two HTTP verbs and how are they different?
