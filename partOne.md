@@ -32,4 +32,7 @@ Every response includes:
 -The body of the response -- the information to return and/or display
 
 ### What is an HTTP header? Give a couple examples of request and response headers you have seen.
+HTTP headers include metadata such as content type, date/time, cookies, caching info, browser language setting, and hostname that it is going to/coming form.
+
+
 ### What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
