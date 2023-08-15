@@ -2,6 +2,7 @@
 
 ### In your own terms, define the following terms:
 ### What is HTTP?
+HTTP or the "hypertext transfer protocol" is a protocol, or set of guidelines, for sending requests (including data) over the web. All requests made with HTTP are sent as text.
 ### What is a URL?
 ### What is DNS?
 ### What is a query string?
