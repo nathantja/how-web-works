@@ -24,5 +24,12 @@ GET is infinitely repeatable (as it yields the same result every time). Each ind
 HTTP requests are how we request data from web servers. They contain data such as: the method (GET or POST), http version, resource URL, additional headers with metadata such as language date and so on.
 
 ### What is an HTTP response?
+What a server sends back after a request.
+Every response includes:
+-the http version
+-the response code or status code
+-headers (meta-data)
+-The body of the response -- the information to return and/or display
+
 ### What is an HTTP header? Give a couple examples of request and response headers you have seen.
 ### What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
