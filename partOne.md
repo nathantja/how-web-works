@@ -8,6 +8,8 @@ Universal Resource Locator.
 URL is comprised of a few things: protocol, subdomain/domain/hostname, port number, resource /, and query for additional data passed.
 
 ### What is DNS?
+The system connecting the hostname to the server/IP.
+
 ### What is a query string?
 ### What are two HTTP verbs and how are they different?
 ### What is an HTTP request?
