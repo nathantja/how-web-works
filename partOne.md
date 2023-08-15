@@ -19,7 +19,10 @@ GET - makes requests which don't change any data on the server.
 POST - Requests which make a change on the server.
 
 GET is infinitely repeatable (as it yields the same result every time). Each individual POST request makes a change.
+
 ### What is an HTTP request?
+HTTP requests are how we request data from web servers. They contain data such as: the method (GET or POST), http version, resource URL, additional headers with metadata such as language date and so on.
+
 ### What is an HTTP response?
 ### What is an HTTP header? Give a couple examples of request and response headers you have seen.
 ### What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
